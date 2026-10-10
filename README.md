@@ -58,8 +58,3 @@ vvp sequence_detector_sim
 - State encoding and transitions
 - Testbench development
 - RTL functional simulation
-
-## Possible Improvements
-- Add more test cases for different input sequences.
-- Verify reset behavior and detection timing.
-- Test overlapping sequence detection.
